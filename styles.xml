@@ -1,0 +1,6 @@
+<resources>
+    <style name="Widget.KoJaksan.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">@drawable/widget_background</item>
+    </style>
+</resources>
